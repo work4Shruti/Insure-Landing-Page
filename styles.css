@@ -1,0 +1,253 @@
+/* -------------------Body------------------- */
+.body-container{
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+}
+/* ----------------------------------------- */
+/* -------------Navigation Bar-------------- */
+.logo{
+  padding-left: 160px;
+}
+.view-plans-btn{
+  margin-right: 150px;
+  color: hsl(270, 9%, 17%);
+  font-weight: 700;
+  background-color: #fff;
+  border: 1px solid hsl(270, 9%, 17%);
+}
+.view-plans-btn:hover{
+  color: #fff;
+  background-color: hsl(270, 9%, 17%);
+}
+.nav-link{
+  color: hsl(270, 9%, 17%);
+  font-weight: 700;
+}
+/* ----------------------------------------- */
+/* --------------Introduction--------------- */
+.intro-container{
+  height: 400px;
+  background-color: hsl(256, 26%, 20%);
+  color: #fff;
+}
+.horizontal-line{
+  background-color: #fff;
+  width: 20%;
+  margin-left: 150px;
+}
+.humanize-your-insaurance-heading{
+  font-family: 'DM Serif Display', serif;
+  padding-left: 150px;
+}
+.intro-column-1{
+  padding-top: 100px;
+}
+.intro-image{
+  width: 60%;
+  height: 450px;
+  margin-top: 70px;
+  margin-left: 80px;
+}
+.intro-paragraph{
+  margin-left: 150px;
+}
+.view-plans-button{
+  background-color: hsl(256, 26%, 20%);
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 1% 3%;
+  margin-left: 150px;
+  font-weight: 400;
+}
+.view-plans-button:hover{
+  background-color: #fff;
+  color: hsl(256, 26%, 20%);
+}
+.bg-intro-desktop-img-right{
+  position: absolute;
+  width: 370px;
+  height: 350px;
+  left: 978px;
+}
+.bg-intro-desktop-img-left{
+  position: absolute;
+  left: 0px;
+  width: 10%;
+  top: 320px;
+}
+/* ----------------------------------------- */
+/* -----------------Features---------------- */
+.features-container{
+  padding-top: 200px;
+}
+.feature-heading{
+  padding-left: 150px;
+  color: hsl(270, 9%, 17%);
+  font-family: 'DM Serif Display', serif;
+}
+.horizontal-line-colored{
+  background-color: hsl(270, 9%, 17%);
+  width: 10%;
+  margin-left: 150px;
+}
+.feature-item-heading-1{
+  padding-left: 150px;
+  color: hsl(270, 9%, 17%);
+  font-family: 'DM Serif Display', serif;
+}
+.feature-item-heading-2{
+  padding-left: 20px;
+  color: hsl(270, 9%, 17%);
+  margin-left: 30px;
+  font-family: 'DM Serif Display', serif;
+}
+.feature-item-heading-3{
+  color: hsl(270, 9%, 17%);
+  font-family: 'DM Serif Display', serif;
+}
+.snappy-process{
+  padding-left: 150px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.affordable-prices{
+  padding-left: 20px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  margin-left: 30px;
+}
+
+.people-first{
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.feature-para-1{
+  padding-left: 150px;
+  color: hsl(273, 4%, 51%);
+  font-weight: 400;
+}
+.feature-para-2{
+  margin-left: 30px;
+  padding-right: 50px;
+  color: hsl(273, 4%, 51%);
+  font-weight: 400;
+  padding-left: 20px;
+}
+.feature-para-3{
+  color: hsl(273, 4%, 51%);
+  font-weight: 400;
+  padding-right: 120px;
+}
+/* ----------------------------------------- */
+/* ---------How we Work--------------------- */
+.how-we-work-block{
+  height: 200px;
+  background-color: hsl(256, 26%, 20%);
+  margin-top: 70px;
+  margin-left: 150px !important;
+  width: 1050px !important;
+}
+
+.how-we-are{
+  display: inline-block;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-right: 100px;
+  color: #fff;
+  font-family: 'DM Serif Display', serif;
+}
+.text-col,.btn-col{
+  width: 525px;
+}
+.how-we-work-button{
+  position: relative;
+  margin-top: 80px;
+  margin-left: 250px;
+  display: inline-block;
+  background-color: hsl(256, 26%, 20%);
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 1% 7%;
+  font-weight: 400;
+}
+.how-we-work-button:hover{
+  background-color: #fff;
+  color: hsl(256, 26%, 20%);
+}
+.how-we-work-desktop{
+  position: absolute;
+  left: 863px;
+  width: 25%;
+  height: 200px;
+}
+/* ----------------------------------------- */
+/* -------------Company Details------------- */
+.company-details{
+  background-color: hsl(0, 0%, 98%);
+  margin-top: 100px;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+.logo-footer{
+  padding: 100px 135px;
+}
+.contact-icon{
+  margin: 10px 5px;
+}
+.facebook{
+  margin-left: 350px;
+}
+.contact-icon:hover{
+  background-color: hsl(270, 9%, 17%);
+}
+.about-rule{
+  width: 80%;
+  margin-left: 130px;
+}
+.our-company,.help-me,.contact,.others{
+  font-size: 14px;
+  color: hsl(270, 9%, 17%);
+  font-weight: 700;
+  text-decoration: none;
+}
+.our-company:hover,.help-me:hover,.contact:hover,.others:hover{
+  color: hsl(270, 9%, 17%);
+  text-decoration: underline;
+}
+.our-company-heading,.help-me-heading,.contact-heading,.others-heading{
+  position: relative;
+  font-weight: 700;
+  text-decoration: none;
+  color: hsl(273, 4%, 51%);
+}
+.our-company-heading:hover,.help-me-heading:hover,.contact-heading:hover,.others-heading:hover{
+  text-decoration: underline;
+  color: hsl(273, 4%, 51%);
+}
+.contact-info-1,.contact-info-2{
+  padding-top: 20px;
+}
+.contact-info-1{
+  margin-left: 130px;
+}
+.contact-info-2{
+  margin-left: 50px;
+}
+.footer-image-bg{
+  position: absolute;
+  width: 30%;
+  left: 0px;
+  top: 1420px;
+}
+
+/* -----------------Footer------------------ */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* --------------------------------------- */
